@@ -1,5 +1,7 @@
+# About: I'm a university student pursuing a Robotics Degree. Here are some coding projects I've done so far.
+
 # Projects
-These are some code projects from class and code I've done myself just for fun
+These are some code projects from class and code I've done myself just for fun.
 
 ## Slot Machines (Python)
 
@@ -12,3 +14,7 @@ This is a text based Banking Management System using data structures, Binary sea
 ## Flask Application
 
 This is my first time using Flask I'm learning on my own. Learning the framework and possibly doing a simple project on my own.
+
+## Password Generation
+
+This is a simple password generation code using python in the terminal. This is to try out python more and doing more python related projects to familiarize with the language.
