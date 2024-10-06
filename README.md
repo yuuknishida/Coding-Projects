@@ -29,5 +29,5 @@ The components used:
 - 2.2k ohm resistor
 - 1uF capacitor
 - Temperature Sensor
-![]
-(https://github.com/yuuknishida/Coding-Projects/blob/main/LightCntrPrj/IMG_0250.jpg?raw=true)
+![plot]
+(https://github.com/yuuknishida/Coding-Projects/blob/main/LightCntrPrj/IMG_0250.jpg)
