@@ -11,10 +11,10 @@ This is a text based slot machine code that can be run on terminal. The user can
 
 This is a text based Banking Management System using data structures, Binary search tree and queue. This is a class project that is required to have two data structures minimum. I used the queue structure for the purpose of processing and BST for storing the information of the accounts including name, account number, and amount 
 
-## Flask Application
+## Flask Application (Python)
 
 This is my first time using Flask I'm learning on my own. Learning the framework and possibly doing a simple project on my own.
 
-## Password Generation
+## Password Generation (Python)
 
 This is a simple password generation code using python in the terminal. This is to try out python more and doing more python related projects to familiarize with the language.
