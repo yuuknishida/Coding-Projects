@@ -1,8 +1,5 @@
 # About: I'm a university student pursuing a Robotics Degree. Here are some coding projects I've done so far.
 
-# Projects
-These are some code projects from class and code I've done myself just for fun.
-
 ## Slot Machines (Python)
 
 This is a text based slot machine code that can be run on terminal. The user can deposit money to a balance and bet lines and the amount money to bet for each line.
@@ -22,3 +19,13 @@ This is a simple password generation code using python in the terminal. This is 
 ## Othello 
 
 Othello is a board game in C++ using openFrameWorks I've done for a class project.
+
+## Light Control
+
+Light Control was a class project to control the light using Serial Interfaces(UART, SPI, I2C), Data Conversion(ADC) and PID control.
+The components used:
+- TM4C123GXL microcontroller
+- phototransistor
+- 2.2k ohm resistor
+- 1uF capacitor
+- Temperature Sensor
