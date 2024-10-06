@@ -18,3 +18,7 @@ This is my first time using Flask I'm learning on my own. Learning the framework
 ## Password Generation (Python)
 
 This is a simple password generation code using python in the terminal. This is to try out python more and doing more python related projects to familiarize with the language.
+
+## Othello 
+
+Othello is a board game in C++ using openFrameWorks I've done for a class project.
