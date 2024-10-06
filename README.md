@@ -30,4 +30,4 @@ The components used:
 - 1uF capacitor
 - Temperature Sensor
 ![]
-(https://github.com/yuuknishida/Coding-Projects/blob/main/LightCntrPrj/IMG_0250.jpg)
+(https://github.com/yuuknishida/Coding-Projects/blob/main/LightCntrPrj/IMG_0250.jpg?raw=true)
