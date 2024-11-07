@@ -32,3 +32,18 @@ The components used:
   
 ![image](https://github.com/yuuknishida/Coding-Projects/blob/master/LightCntrPrj/IMG_0250.jpg).
 ![image](https://github.com/yuuknishida/Coding-Projects/blob/master/LightCntrPrj/circuit.png)
+
+## TicTacToeAI
+This is an AI project of the game TicTacToe with an AI integration using minimax algorithm for the ai to decide on its moves.
+
+## ChessPython
+This python code of chess is a part of my senior design project. Our senior design idea is a Electronic Chessboard that we're currently building. Our current plans are:
+- Camera for piece type detection
+- Pressure sensors for movement detection
+- Code for chess logic
+- Chess Engine integration using stockfish or other engines
+
+## ToDoList
+This is a work in progress software for a ToDoList Application that will display various tasks that will show priority, status, and due date. This was a beginner to intermediate project that I attempted to create. I used tkinter for the UI and sqlite3 for the database to store the tasks. I am currently working on adding data to the database.
+
+  
