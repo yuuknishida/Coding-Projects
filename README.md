@@ -31,4 +31,4 @@ The components used:
 - Temperature Sensor
   
 ![image](https://github.com/yuuknishida/Coding-Projects/blob/main/LightCntrPrj/IMG_0250.jpg)
-![image](https://github.com/yuuknishida/Coding-Projects/blob/main/LightCntrPrj/circuit.png)
+![image](https://github.com/yuuknishida/Coding-Projects/blob/master/LightCntrPrj/circuit.png)
