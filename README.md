@@ -30,5 +30,5 @@ The components used:
 - 1uF capacitor
 - Temperature Sensor
   
-![image](https://github.com/yuuknishida/Coding-Projects/blob/main/LightCntrPrj/IMG_0250.jpg)
+![image](https://github.com/yuuknishida/Coding-Projects/blob/master/LightCntrPrj/IMG_0250.jpg).
 ![image](https://github.com/yuuknishida/Coding-Projects/blob/master/LightCntrPrj/circuit.png)
