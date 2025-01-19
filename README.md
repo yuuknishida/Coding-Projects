@@ -39,10 +39,11 @@ This is an AI project of the game TicTacToe with an AI integration using minimax
 ## ChessPython
 This python code of chess is a part of my senior design project. Our senior design idea is a Electronic Chessboard that we're currently building. Our current plans are:
 - Camera for piece type detection
-- Pressure sensors for movement detection
-- Code for chess logic
-- Chess Engine integration using stockfish or other engines
-
+- Push Buttons for piece location detection
+- Create a custom code for chess logic
+- Chess Engine integration using stockfish
+- Use PyQt tool to create a GUI representing chess board on the screen for players to view
+  
 ## ToDoList
 This is a work in progress software for a ToDoList Application that will display various tasks that will show priority, status, and due date. This was a beginner to intermediate project that I attempted to create. I used tkinter for the UI and sqlite3 for the database to store the tasks. I am currently working on adding data to the database.
 
