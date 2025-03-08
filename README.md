@@ -10,7 +10,7 @@ This is a text based Banking Management System using data structures, Binary sea
 
 ## Flask Application (Python)
 
-This is my first time using Flask I'm learning on my own. Learning the framework and possibly doing a simple project on my own.
+This is my first time using Flask I'm learning on my own. Planning on creating application of my own.
 
 ## Password Generation (Python)
 
